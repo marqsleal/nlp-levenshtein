@@ -14,7 +14,7 @@ pip install -r requirements.txt
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/marqsleal/~.git
+git clone https://github.com/marqsleal/nlp-levenshtein.git
 ```
 
 2. Execute o arquivo `test.py`:
