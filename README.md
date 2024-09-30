@@ -71,3 +71,6 @@ def levenshtein(token1: str, token2: str, printMatrix=False) -> float:
 
     return levenshtein
 ```
+
+- Utilização do `numpy` para a criação de Arrays;
+- Utilização do `unidecode` para a normalização dos tokens;
